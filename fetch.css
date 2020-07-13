@@ -11,3 +11,12 @@ body {
     letter-spacing: 0.015em;
     line-height: 1em;
 }
+
+img {
+    border-radius: 50%;
+}
+
+#app {
+    text-align: center;
+    margin: 0 auto;
+}
